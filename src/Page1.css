@@ -1,0 +1,78 @@
+@media(max-width:760px){
+    .parentpg1 #signinbar{
+        display: none;
+    }
+    .parentpg1 .tech_nav{
+        display: none;
+    }
+    .parentpg1 .startups_nav{
+        display: none;
+    
+    }
+    
+    .parentpg1 .self_nav{
+        display: none;
+    }
+    
+    .parentpg1 .politics_nav{
+        display: none;
+    }
+    .parentpg1 .health_nav{
+        display: none;
+    }
+
+    .parentpg1 .design_nav{
+        display: none;
+    }
+    
+    .parentpg1 .human_parts_nav{
+        display: none;
+    }
+    .parentpg1 .more_nav{
+        display: none;
+    }
+
+}
+.parentpg1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+ .parentpg1 li {
+    float: left;
+  }
+  
+  .parentpg1 li p {
+    display: block;
+    color: black;
+    text-align: center;
+    margin: 13px 10px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  .parentpg1 p{
+      font-size: 100%;
+    font-family: Raleway;
+  }
+  .parentpg1 h1{
+      font-family: sans-serif;
+      font-size: 170%;
+      font-weight: bold;
+  }
+  
+ .parentpg1 button {
+    background-color: white;
+    color: #4CAF50;
+    border: 2px solid #4CAF50; /* Green */
+    border-radius: 10%;
+  }
+  .parentpg1 .desc1{
+    color: #9E9E9E;
+}
+.parentpg1 .detail1{
+   color: #9E9E9E;
+}

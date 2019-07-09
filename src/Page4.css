@@ -1,0 +1,92 @@
+
+
+.parentpg4 p {
+	font-size: 130%;
+	font-family: sans-serif;
+}
+
+.parentpg4 h1 {
+	font-family: serif;
+	font-size: 200%;
+	font-weight: bold;
+}
+
+.parentpg4 button {
+	background-color: white;
+	color: #147BB6;
+	border: 2px solid #147BB6;
+	/* Green */
+	border-radius: 4%;
+    border-width: 2px;
+    
+}
+
+
+.parentpg4 p{
+    margin-bottom: 1px;
+}
+
+
+.parentpg4 body {
+	margin: 5px;
+}
+
+
+.parentpg4 p button {
+	font-size: 70%;
+}
+
+
+
+.parentpg4 #new_blog{
+    padding-left: 15%;
+    margin: 4%;
+    
+}
+.parentpg4 #new_blog h1{
+    font-weight: lighter;
+}
+.parentpg4 #new_blog_input h1{
+    color: #B3B3B1;
+    font-weight: lighter;
+}
+
+.parentpg4 #new_blog_input input{
+    border: none;
+    color: #B3B3B1;
+}
+.parentpg4 #email{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.parentpg4 #password{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.parentpg4 #name{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.parentpg4 #post_essay3 p{
+    color: #B3B3B1;
+}
+
+.parentpg4 #post_essay5 input{
+    font: 100;
+    font-size: 150%;
+    color: #D0D0D0;
+margin: 5%;
+padding: 1%;
+box-sizing: border-box;
+border-radius: 5px;
+border-color: #292929;
+background-color: #292929;
+}
+.parentpg4 #profile_picture{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}

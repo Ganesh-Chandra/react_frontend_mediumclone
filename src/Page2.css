@@ -1,0 +1,155 @@
+
+
+@media(min-width:0px) {
+	.parentpg2 #signinbar {
+		display: flex;
+	}
+	.parentpg2 #signinbar5 {
+		flex: 0.4;
+	}
+	.parentpg2 #signingap {
+		flex: 1;
+	}
+	.parentpg2 #signinbar6 {
+		flex: 0.7;
+	}
+	.parentpg2 #signinbar1 {
+		flex: 1;
+    }
+
+}
+@media(max-width:720px){
+    .parentpg2 #signinbar5{
+        display: none;
+    }
+ 
+}
+.parentpg2 .post_intro p,.detail1 {
+	color: darkgray;
+	font-size: 110%;
+}
+
+.parentpg2 p {
+	font-family: 'Tinos', serif;
+	font-size: 110%;
+}	
+.parentpg2 .postdes{
+	font-family: 'Tinos', serif;
+	line-height: 1.58;
+	font-size: 123%;
+	letter-spacing: -.003em;
+}
+
+.parentpg2 h1 {
+	font-family: 'Tinos', serif;
+	font-size: 300%;
+	
+}
+
+.parentpg2 button {
+	background-color: white;
+	color: #147BB6;
+	border: 2px solid #147BB6;
+	/* Green */
+	border-radius: 10%;
+	border-width: 2px;
+}
+
+.parentpg2 li {
+	font-size: 100%;
+	font-family: sans-serif;
+	padding: 2%;
+}
+
+.parentpg2 #authimg {
+	display: flex;
+	padding: 3px;
+	border-radius: 50%;
+	border-color: #147BB6;
+	border-style: solid;
+	border-width: 2px;
+	width: 70px;
+	height: 70px;
+}
+
+.parentpg2 body {
+	margin: 5px;
+}
+
+.parentpg2 #signinbar {
+	padding: 1%;
+	
+}
+
+.parentpg2 p button {
+	font-size: 70%;
+	margin-left: 15px;
+}
+
+.parentpg2 #signinbar1 h1 {
+	background-color: black;
+	color: white;
+	display: inline;
+}
+
+.parentpg2 #signinbar6 button{
+    float: right;
+
+}
+
+.parentpg2 #signinbar5 a{
+    float: right;
+}
+
+    
+.parentpg2 hr{
+	width: 86%;
+	margin-left: 7%;
+}
+
+
+.parentpg2 .desc1{
+	line-height: 200%;
+	font-size: 150%;
+	font-family: Raleway;
+	font-size: 110%;
+}
+
+ .parentpg2 #cmntpagetag h3{
+	font-size: 150%;
+	padding: 3%;
+	
+ }
+.parentpg2 #cmntpagetag{
+	
+	border-style: solid;
+	border-width: 1px;
+	margin: 4%;
+	border-color: #AEA9AA;
+	border-radius: 3px;
+	text-align: center;
+	font-family: monospace;
+ }
+
+ .parentpg2 #cmntpagetag h3:hover{
+	font-size: 150%;
+	padding: 3%;
+	color: white;
+ }
+.parentpg2 #cmntpagetag:hover{
+	margin: 4%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #AEA9AA;
+	border-radius: 3px;
+	text-align: center;
+	font-family: monospace;
+	background-color: #51A97D;
+	
+ }
+
+
+.postdes img{
+	width: 50vw;
+    height: 50vh;
+}
